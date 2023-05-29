@@ -87,7 +87,7 @@ if menu == 'About':
 
         The source code for this application can be found on my GitHub page:
 
-        - [GitHub](https://github.com/assefadsci/emotion-detector.git)
+        - [GitHub](https://github.com/assefadsci/human_emotion_detection)
 
         ### Dataset
 
