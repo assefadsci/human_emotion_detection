@@ -12,7 +12,7 @@ from streamlit_webrtc import webrtc_streamer
 st.set_page_config(
     page_title='Human Emotion Detector',
     page_icon=':smiley:',
-    layout='wide'
+    layout='centered'
 )
 
 st.title('Human Emotion Detector')
