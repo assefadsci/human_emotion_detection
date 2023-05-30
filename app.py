@@ -16,6 +16,7 @@ st.set_page_config(
 )
 
 st.title('Human Emotion Detector')
+st.write("")
 st.sidebar.title('Human Emotion Detector')
 
 # Set up the sidebar menu options
@@ -87,7 +88,7 @@ if menu == 'About':
 
         The source code for this application can be found on my GitHub page:
 
-        - [GitHub](https://github.com/assefadsci/human_emotion_detection)
+        - [GitHub](https://github.com/assefadsci/emotion-detector.git)
 
         ### Dataset
 
